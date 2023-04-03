@@ -2,7 +2,12 @@
 """
 Created on Fri Mar 17 01:15:07 2023
 
-@author: adwal
+
+Purpose: Create a game that allows the user to enter what they think is the capital of each U.S. state.
+Each guess produces an output that lets the user know if their guess is right or wrong.
+The program will only ask for the capital of a specific state once.
+At the end of the program, once all states are asked in questions, you will recieve a summary of how well you did.
+The summary will show how many things you got correct and wrong.
 """
 import random
 statCap = [
