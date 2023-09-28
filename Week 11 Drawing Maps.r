@@ -1,4 +1,4 @@
-# BIS 244 Spring 2022
+
 # Week 11: Draw maps
 library(dplyr)
 library(socviz)
